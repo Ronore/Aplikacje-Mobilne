@@ -5,16 +5,76 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:id="@+id/task1"
+            android:icon="@drawable/task"
+            android:title="@string/task1" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/task2"
+            android:icon="@drawable/task"
+            android:title="@string/task2" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/task3"
+            android:icon="@drawable/task"
+            android:title="@string/task3" />
+        <item
+            android:id="@+id/task4"
+            android:icon="@drawable/task"
+            android:title="@string/task4" />
+        <item
+            android:id="@+id/task5"
+            android:icon="@drawable/task"
+            android:title="@string/task5" />
+        <item
+            android:id="@+id/task6"
+            android:icon="@drawable/task"
+            android:title="@string/task6" />
+        <item
+            android:id="@+id/task7"
+            android:icon="@drawable/task"
+            android:title="@string/task7" />
+        <item
+            android:id="@+id/task8"
+            android:icon="@drawable/task"
+            android:title="@string/task8" />
+        <item
+            android:id="@+id/task9"
+            android:icon="@drawable/task"
+            android:title="@string/task9" />
+        <item
+            android:id="@+id/task10"
+            android:icon="@drawable/task"
+            android:title="@string/task10" />
+        <item
+            android:id="@+id/task11"
+            android:icon="@drawable/task"
+            android:title="@string/task11" />
+        <item
+            android:id="@+id/task12"
+            android:icon="@drawable/task"
+            android:title="@string/task12" />
+        <item
+            android:id="@+id/task13"
+            android:icon="@drawable/task"
+            android:title="@string/task13" />
+        <item
+            android:id="@+id/task14"
+            android:icon="@drawable/task"
+            android:title="@string/task14" />
+        <item
+            android:id="@+id/task15"
+            android:icon="@drawable/task"
+            android:title="@string/task15" />
+        <item
+            android:id="@+id/task16"
+            android:icon="@drawable/task"
+            android:title="@string/task16" />
+        <item
+            android:id="@+id/task17"
+            android:icon="@drawable/task"
+            android:title="@string/task17" />
+        <item
+            android:id="@+id/task18"
+            android:icon="@drawable/task"
+            android:title="@string/task18" />
     </group>
 </menu>

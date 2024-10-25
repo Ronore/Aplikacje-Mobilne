@@ -1,4 +1,4 @@
-package com.example.galeriaapek.ui.slideshow;
+package com.example.galeriaapek.ui.Task3;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

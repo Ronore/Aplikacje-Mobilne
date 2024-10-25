@@ -1,4 +1,4 @@
-package com.example.galeriaapek.ui.slideshow;
+package com.example.galeriaapek.ui.Task3;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -18,13 +18,13 @@ public class SlideshowFragment extends Fragment {
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        SlideshowViewModel slideshowViewModel =
-                new ViewModelProvider(this).get(SlideshowViewModel.class);
+        com.example.galeriaapek.ui.Task4.Task4ViewModel slideshowViewModel =
+                new ViewModelProvider(this).get(com.example.galeriaapek.ui.Task4.Task4ViewModel.class);
 
         binding = FragmentSlideshowBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textSlideshow;
+        final TextView textView = binding.task4;
         slideshowViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }

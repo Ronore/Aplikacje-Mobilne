@@ -7,7 +7,28 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="task1">Task1</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="nadkiernicznyigor_gmail_com">nadkiernicznyigor@gmail.com</string>
+    <string name="igor_nadkierniczny">Igor Nadkierniczny</string>
+
+    <string name="task2">Task2</string>
+    <string name="task3">Task3</string>
+    <string name="task4">Task4</string>
+    <string name="task5">Task5</string>
+    <string name="task6">Task6</string>
+    <string name="task7">Task7</string>
+    <string name="task8">Task8</string>
+    <string name="task9">Task9</string>
+    <string name="task10">Task10</string>
+    <string name="task11">Task11</string>
+    <string name="task12">Task12</string>
+    <string name="task13">Task13</string>
+    <string name="task14">Task14</string>
+    <string name="task15">Task15</string>
+    <string name="task16">Task16</string>
+    <string name="task17">Task17</string>
+    <string name="task18">Task18</string>
+
 </resources>
